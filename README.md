@@ -1,4 +1,7 @@
-#  TP4 — Exercice 1 : Gestion d’un étudiant avec tableau de notes
+ # TP 4 : Classes et Objets
+
+
+## Exercice 1 : Gestion d’un étudiant avec tableau de notes
 
 
 ## 1. Objectif
@@ -13,11 +16,11 @@ Mettre en pratique :
 ## 2. Structure du projet
 
 ```
-TPAssociations/
+TP4/
 └─ src/
    └─ com.example.tp/
       ├ Etudiant.java
-      └ Main.java
+      └ MainEX1.java
 
 ```
 
@@ -39,12 +42,12 @@ Mettre en œuvre deux classes, Étudiant et Filière, liées par une association
 
 ## 2. Structure du projet
 ```
-TPAssociations/
+TP4/
 └─ src/
    └─ com.example.tp/
       ├ Étudiant.java
       ├ Filiere.java
-      └ Main.java
+      └ MainEX2.java
 ```
 
 
@@ -86,14 +89,14 @@ Mettre en pratique :
 ## 3. Structure du projet
 
 ```
-TPArticles/
+TP4/
 └─ src/
 └─ ma/projet/
 ├─ bean/
 │ ├ Categorie.java
 │ └ Article.java
 └─ test/
-└ TestApp.java
+  └ TestApp.java
 
 ```
 
@@ -112,6 +115,7 @@ Ordinateur Poste :
 ```
 
 
+
 # Exercice 4 : Gestion d’Auteurs, Livres et Bibliothèques
 
 ## 1. Contexte et objectifs
@@ -126,13 +130,14 @@ Ce TP a pour but de mettre en œuvre :
 ---
 
  ``` bash
-TPAssociations/
+
+TP4/
 └─ src/
    └─ com/example/tp/
        ├ Auteur.java        
        ├ Livre.java          
        ├ Bibliotheque.java  
-       └ Main.java           
+       └ MainEX4.java           
 
 ```
 
