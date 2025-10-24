@@ -34,6 +34,13 @@ Etudiant[id=2, nom=Martin, prenom=Bob, moyenne=11.75]
 
 ```
 
+ ##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) : 
+
+![Exécution du programme](execution_EX1.PNG)
+
+
 # Exercice 2 : Association Étudiant ↔ Filière (avec tableaux)
 
 ## 1. Objectif
@@ -72,6 +79,11 @@ Filière Génie Civil (id=2) → 2 étudiants :
 Détail de e3 : Étudiant[id=3, nom=Chouaib, prénom=Youssef, filière=Informatique]
 
 ```
+ ##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) : 
+
+![Exécution du programme](execution_EX2.PNG)
 
 
 # Exercice 3 : Gestion des articles
@@ -113,6 +125,11 @@ Ordinateur Poste :
   - 4 785 HP Compaq
 
 ```
+ ##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) : 
+
+![Exécution du programme](execution_EX3.PNG)
 
 
 
@@ -160,3 +177,8 @@ Bibliotheque[id=2, nom=Quartier, taille=2]
 
 ```
 
+ ##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) : 
+
+![Exécution du programme](execution_EX4.PNG)
