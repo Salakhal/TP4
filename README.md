@@ -125,6 +125,18 @@ Ce TP a pour but de mettre en œuvre :
 
 ---
 
+ ``` bash
+TPAssociations/
+└─ src/
+   └─ com/example/tp/
+       ├ Auteur.java        
+       ├ Livre.java          
+       ├ Bibliotheque.java  
+       └ Main.java           
+
+```
+
+
 ## Résultat attendu
 
 ``` bash
